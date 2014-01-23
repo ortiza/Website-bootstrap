@@ -1,4 +1,7 @@
 # Project Name: Website Template 
 
 ## Purpose
-What's the purpose of this project? Developing a basic bootstrap template. 
+Developing a basic bootstrap template. 
+
+## HTML
+Basic HTML5 Boilerplate
